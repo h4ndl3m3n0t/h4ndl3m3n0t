@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h4ndl3m3n0t
 - 👀 I’m interested in learning new things related to technology
 - 🌱 I’m currently learning secret
-- 💞️ I’m looking to collaborate on php related basic (basic of the basic of the basic) projects
+- 💞️ I’m looking to collaborate on php related basic projects
 - 📫 s33k m3 n0t, 1'|| d0 th3 s33|(inG
 
 <!---
